@@ -13,3 +13,7 @@ h1 {
 .BlackBack {
   background-color: black;
 }
+
+.hide {
+  display: none;
+}
